@@ -85,3 +85,4 @@ In conclusion, as the digital world continues to grow, recommendation systems wi
 
 OUTPUT:
 
+<img width="402" height="41" alt="Image" src="https://github.com/user-attachments/assets/84a7992f-c494-456f-bbf8-2bc309395c41" />
